@@ -11,3 +11,4 @@ Este projeto contém um dashboard de análise de vendas desenvolvido no Power BI
 ### Requisitos
 
 - Power BI Desktop (versão mais recente)
+![report](https://github.com/user-attachments/assets/6b974154-0055-4b8c-a00f-22bbbb46258d)
