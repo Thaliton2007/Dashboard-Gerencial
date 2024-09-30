@@ -1,6 +1,6 @@
 # Dashboard Power BI - Análise de Vendas
 
-Este projeto contém um dashboard de análise de vendas desenvolvido no Power BI. O objetivo é visualizar as tendências de vendas, performance por produto e dados regionais.
+Este projeto contém um dashboard de análise de vendas desenvolvido no Power BI. O objetivo é visualizar as tendências de vendas, performance por produto e dados regionais
 
 ## Como Usar
 
